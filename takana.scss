@@ -1,0 +1,5 @@
+#container { max-width: 960px; margin: 0 auto; background: #fff; padding: 1em; border-radius: 2em;
+    p { box-sizing: border-box; float: left; padding: 10px; background: pink; width: 49.5%; margin-right: 1%;
+            &:last-child { margin-right: 0; }
+        }
+    }
